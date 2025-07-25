@@ -1,0 +1,10 @@
+SourceProcessProgram=inference_IMAGdressing_ipa_controlnetpose.py
+SourceDirectory=Source/
+DataBaseName=YSWW
+UserName=root
+PassWord=01190650asd
+DataBaseMaxIdleConns=10
+DataBaseFileNameMaxLength=30
+FileMaxSize=8
+RequestMaxProcess=100
+fileDebug=true
